@@ -23,7 +23,8 @@ This is my first ever Java project which i built taking reference from this Yout
 
 # Project License
 
-```Copyright (C) 2017 Saurav Tiwary
+```
+Copyright (C) 2017 Saurav Tiwary
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
